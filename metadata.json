@@ -1,0 +1,6 @@
+{
+  "name": "BTC Time & Cost Portal",
+  "description": "ระบบบันทึกเวลางานและบริหารจัดการต้นทุนโครงการอัจฉริยะ (Time Attendance, Advanced Payroll & Costing for BTC Enterprise)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
